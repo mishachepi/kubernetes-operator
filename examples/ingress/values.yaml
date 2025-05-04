@@ -17,3 +17,4 @@ netbirdAPI:
   #key: "nbp_m0LM9yZvDUzF8fpY20iChDOTxJgKFM3DIqmZ"
   # Use keyFromSecret instead of plain text secret
   keyFromSecret: "netbird-mgmt-api-key"
+  key: "NB_API_KEY"
